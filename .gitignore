@@ -1,0 +1,5 @@
+.old/
+.older version/
+videos/*
+splitting.code-workspace
+__pycache__
